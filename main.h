@@ -1,5 +1,6 @@
 //
 // Created by Harrison Mutai on 12/10/2020.
+// @brief experimenting with BLE      
 //
 
 #ifndef MBED_BLINKY_APP_MAIN_H
